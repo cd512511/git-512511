@@ -13,6 +13,7 @@ public class testGit {
         System.out.println("master test");
         System.out.println("hpt-fix-test");
         System.out.println("push test");
-         System.out.println("pull test....");
+        System.out.println("pull test....");
+        System.out.println("收到你看了几个你群发看见对方");
     }
 }
